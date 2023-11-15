@@ -1,0 +1,6 @@
+*.py linguist-language=Python
+*.sql linguist-language=MySQL
+*.yaml linguist-language=DOCKER
+*.md linguist-language=Markdown
+*.txt linguist-language=Text
+*.png linguist-language=Image
